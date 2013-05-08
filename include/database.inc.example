@@ -1,0 +1,5 @@
+$PARAM_host='<database host'; 
+$PARAM_port='<database port>';
+$PARAM_dbname='<database name';
+$PARAM_dbuser='<database username';
+$PARAM_password='<database password>';
